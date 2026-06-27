@@ -1,0 +1,1 @@
+python lcmtesta.py "giant arm in the sky grabbing skyscraper cinematic marvel, wide fov" arm512d.png
